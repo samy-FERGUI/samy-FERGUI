@@ -6,5 +6,5 @@
 - 🚀 Passionate about full-stack development, continuously improving my skills.
 
 ## Get in Touch
-- 💼 Connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/samy-fergui-386bb91b0/)).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/samy-fergui-386bb91b0/).
 - 📧 You can reach me at: `samy.fergui.pro@gmail.com'
