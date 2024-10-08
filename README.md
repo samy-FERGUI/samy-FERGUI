@@ -1,4 +1,4 @@
-![Cool Animation](./assets/cool-animation.webp)
+![Cool Animation](./giphy.webp)
 
 ## Hi there, i'm Samy Fergui👋
 
