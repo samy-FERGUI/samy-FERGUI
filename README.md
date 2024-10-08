@@ -1,3 +1,5 @@
+![Cool Animation](./assets/cool-animation.webp)
+
 ## Hi there, i'm Samy Fergui👋
 
 ##About me : 
