@@ -1,4 +1,4 @@
-![Cool Animation](./giphy.webp)
+![Cool Animation](./robot.gif)
 
 ## Hi there, i'm Samy Fergui👋
 
